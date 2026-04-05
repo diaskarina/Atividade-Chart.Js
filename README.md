@@ -5,7 +5,6 @@ Este projeto é uma página HTML que utiliza a biblioteca **Chart.js** para cria
 ## 📊 Funcionalidades
 - Gráfico de linha mostrando temperatura e umidade ao longo do tempo.
 - Gráfico de barras mostrando médias mensais.
-- Layout responsivo e centralizado com CSS.
 
 ## 🚀 Como executar
 1. Clone este repositório:
